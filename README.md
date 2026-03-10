@@ -30,19 +30,29 @@ Over time, I’ve worked with a variety of technologies across frontend, backend
 ![PHP](https://img.shields.io/badge/-PHP-4F5B93?logo=php&logoColor=fff)
 ![C#](https://img.shields.io/badge/-C%23-239120?logo=csharp&logoColor=fff)
 
+
 ## Frameworks & Libraries
 ![Angular](https://img.shields.io/badge/-Angular-DD0031?logo=angular&logoColor=fff)
 ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=000)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=next.js&logoColor=fff)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=fff)
-![Express.js](https://img.shields.io/badge/-Express.js-000000?logo=express&logoColor=fff)
-![.NET](https://img.shields.io/badge/-.NET-512BD4?logo=.net&logoColor=fff)
 ![Laravel](https://img.shields.io/badge/-Laravel-F4534E?logo=laravel&logoColor=fff)
+![.NET](https://img.shields.io/badge/-.NET-512BD4?logo=.net&logoColor=fff)
+
+## Backend & Runtime
+![PHP-FPM](https://img.shields.io/badge/-PHP--FPM-777BB4?logo=php&logoColor=fff)
+![PM2](https://img.shields.io/badge/-PM2-2B037A?logo=pm2&logoColor=fff)
+![Nginx](https://img.shields.io/badge/-Nginx-009639?logo=nginx&logoColor=fff)
+
+## DevOps & CI/CD
+![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=fff)
+![Jenkins](https://img.shields.io/badge/-Jenkins-D24939?logo=jenkins&logoColor=fff)
+![GitHub Actions](https://img.shields.io/badge/-GitHub_Actions-2088FF?logo=github-actions&logoColor=fff)
 
 ## Databases
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?logo=postgresql&logoColor=fff)
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=fff)
 ![MSSQL](https://img.shields.io/badge/-MSSQL-003B57?logo=microsoft-sql-server&logoColor=fff)
-
 ---
 
 # 📊 GitHub Activity
