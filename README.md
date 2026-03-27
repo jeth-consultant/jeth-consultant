@@ -52,16 +52,19 @@ I'm not just a developer — I'm a **Full Stack Engineer** with battle-tested ex
 
 ---
 
-# 📈 The Proof Is in the Performance
+# 📈 GitHub Analytics — *Code That Speaks Volumes*
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jeth-consultant&layout=compact)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jeth-consultant&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=radical)
+### 🏆 Top Languages — *Where I Dominate*
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jeth-consultant&layout=compact&theme=radical&langs_count=8)
+
+### 📊 GitHub Stats — *Performance Metrics That Matter*
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jeth-consultant&show_icons=true&hide_title=false&count_private=true&hide=prs&theme=radical&include_all_commits=true)
 
 ---
 
 # 🔥 Relentless Execution — Contribution Streak
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=jeth-consultant&theme=radical)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=jeth-consultant&theme=radical&fire=FF4500&ring=FF4500)
 
 *Consistency isn't just a habit — it's a competitive advantage.*
 
@@ -69,7 +72,7 @@ I'm not just a developer — I'm a **Full Stack Engineer** with battle-tested ex
 
 # 📊 Activity Graph — *Code That Moves Markets*
 
-[![Jethro's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=jeth-consultant&bg_color=000000&color=ededed&line=0aff27&point=ffffff&area=true&hide_border=true)](https://github.com/jeth-consultant)
+[![Jethro's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=jeth-consultant&bg_color=000000&color=ededed&line=0aff27&point=ffffff&area=true&hide_border=true&custom_title=Engineering%20Velocity%20Graph)](https://github.com/jeth-consultant)
 
 ---
 
