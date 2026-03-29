@@ -1,23 +1,21 @@
 <div align="center">
 
-<!-- Typing Animation -->
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=FF0000&center=true&vCenter=true&width=900&lines=Hi%2C+I'm+Jethro+Cheruiyot+Sumbeiywet;Full+Stack+Engineer+%7C+Cloud+Architect;DevOps+%7C+AI%2FML+%7C+Cybersecurity;I+Build+Scalable+%26+Secure+Systems" />
+<!-- Smooth Typing Animation -->
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3500&pause=1200&color=0AFFEF&center=true&vCenter=true&width=850&lines=Hi%2C+I'm+Jethro+Cheruiyot+Sumbeiywet;Full+Stack+Engineer+%7C+Cloud+Architect;DevOps+%7C+AI%2FML+%7C+Cybersecurity;Building+Scalable+%26+Secure+Systems" />
 
 <br><br>
 
-![Profile Views](https://komarev.com/ghpvc/?username=jeth-consultant&color=ff0000&style=for-the-badge)
+![Profile Views](https://komarev.com/ghpvc/?username=jeth-consultant&color=0affef&style=for-the-badge)
 
 # 🚀 Jethro Cheruiyot Sumbeiywet  
-### *Engineering Scalable, Secure & Intelligent Systems*
+### *Building Scalable, Secure & Intelligent Systems*
 
-**`Full Stack Engineer` | `Cloud Architect` | `DevOps Engineer` | `AI/ML Engineer` | `Cybersecurity`**  
-**`Technical Writer` | `Proposal Specialist` | `System Designer`**
+**`Full Stack Engineer` | `Cloud Architect` | `DevOps` | `AI/ML` | `Cybersecurity`**  
+**`Technical Writer` | `Proposal Specialist`**
 
-📍 Nairobi, Kenya 🇰🇪 — *Open to Remote & Global Opportunities*
+📍 Nairobi, Kenya 🇰🇪 — *Open to Global Opportunities*
 
 ---
-
-> *"I don’t just write code — I architect systems that scale, secure, and drive real business value."*
 
 </div>
 
@@ -25,155 +23,148 @@
 
 ## 🧠 About Me
 
-<img align="right" alt="coding" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+<img align="right" alt="coding" width="280" src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif">
 
-I’m a **Full Stack Engineer** passionate about building **scalable, secure, and impactful systems**.
+I design and build **end-to-end systems** that are:
 
-I operate across the **entire software lifecycle** — from idea → architecture → development → deployment → scaling.
+- ⚡ High-performance  
+- 🔐 Secure by design  
+- ☁️ Cloud-native  
+- 📈 Built for real business impact  
 
-### 🔹 Core Strengths
-- ⚙️ Full-stack development (Frontend + Backend)  
-- ☁️ Cloud-native architecture (AWS & GCP)  
-- 🔄 DevOps & CI/CD automation  
-- 🧠 AI/ML integration  
-- 🔐 Cybersecurity-first engineering  
-
-### 🔹 Beyond Engineering
-- 📝 Technical documentation & reports  
-- 📑 Tender submissions & technical proposals  
-- 📦 Product catalog development  
-- 🤝 Collaboration & leadership  
+I work across the **full lifecycle** — from idea → architecture → deployment → scaling.
 
 ---
 
 ## ⚙️ Tech Stack
 
-### 💻 Programming Languages
-JavaScript • TypeScript • Python • Java • PHP • C#
-
----
-
 ### 🎨 Frontend
-Angular • React • Next.js • Vue • Nuxt • Svelte  
-Tailwind CSS • Bootstrap • Material UI  
+<p>
+<img src="https://skillicons.dev/icons?i=angular,react,nextjs,vue,nuxtjs,svelte,tailwind,bootstrap" />
+</p>
 
 ---
 
 ### ⚙️ Backend
-Node.js • Express • NestJS • Laravel  
-Django • Flask • Spring Boot • ASP.NET  
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,laravel,django,flask,spring,dotnet" />
+</p>
 
 ---
 
-### ☁️ Cloud, DevOps & Infrastructure
-AWS • Google Cloud (GCP)  
-Docker • Kubernetes  
-Jenkins • GitHub Actions  
-Nginx  
+### ☁️ Cloud & DevOps
+<p>
+<img src="https://skillicons.dev/icons?i=aws,gcp,docker,kubernetes,jenkins,githubactions,nginx" />
+</p>
 
 ---
 
-### 🗄️ Databases, Caching & Data Systems
+### 🗄️ Databases & Data Systems
+<p>
+<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis,firebase,supabase" />
+</p>
 
-**🧱 Relational:**  
-PostgreSQL • MySQL • SQL Server • MariaDB • SQLite • Oracle  
-
-**🌐 NoSQL:**  
-MongoDB • Cassandra • Firebase • CouchDB • DynamoDB  
-
-**⚡ Caching:**  
-Redis • Memcached  
-
-**🔍 Search & Analytics:**  
-Elasticsearch • OpenSearch  
-
-**☁️ BaaS / Realtime:**  
-Supabase • Firebase  
+**Also experienced with:**  
+Cassandra • DynamoDB • MariaDB • SQLite • Oracle • Elasticsearch • Memcached
 
 ---
 
 ### 🧠 AI/ML & Cybersecurity
 
-- Machine Learning integrations  
-- AI-powered applications  
-- Secure authentication (JWT, OAuth)  
-- API security & encryption  
-- Vulnerability mitigation  
+- 🤖 AI-powered applications & automation  
+- 🔐 Secure authentication (JWT, OAuth)  
+- 🛡️ API security & encryption  
+- 📊 Data-driven system design  
 
 ---
 
 ## 🚀 Featured Projects
 
-### 🏛️ CitizenConnect360
-Full-stack civic engagement platform with AI integration  
-**Tech:** Angular • Node.js • MSSQL  
+### 🏛️ CitizenConnect360  
+Civic-tech platform connecting citizens & government  
+**Stack:** Angular • Node.js • MSSQL  
 
 📈 Improved reporting efficiency by **40%**
 
 ---
 
-### ☁️ Cloud-Native System
-Microservices deployed using Kubernetes  
-**Tech:** AWS • GCP • Docker  
+### ☁️ Cloud-Native System  
+Microservices architecture with Kubernetes  
+**Stack:** AWS • GCP • Docker  
 
-📈 High scalability & performance optimization  
+📈 Scalable & cost-efficient infrastructure  
 
 ---
 
-### ⚙️ DevOps Pipeline System
-CI/CD automation system  
-**Tech:** GitHub Actions • Docker  
+### ⚙️ DevOps Automation  
+CI/CD pipelines for faster deployment  
+**Stack:** GitHub Actions • Docker  
 
 📈 Reduced deployment time by **60%**
 
 ---
 
-### 🤖 AI Integration Project
-Machine learning-based automation system  
+### 🤖 AI Integration  
+Machine learning automation system  
 
 📈 Reduced manual workload & improved accuracy  
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Insights
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=jeth-consultant&show_icons=true&theme=radical&hide_border=true" height="160"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=jeth-consultant&theme=radical&hide_border=true" height="160"/>
+<img src="https://github-readme-stats.vercel.app/api?username=jeth-consultant&show_icons=true&theme=tokyonight&hide_border=true" height="160"/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=jeth-consultant&theme=tokyonight&hide_border=true" height="160"/>
 
 </div>
 
 ---
 
-## 🔥 Contribution Activity
+## 🔥 Activity Graph
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=jeth-consultant&bg_color=000000&color=ffffff&line=00ffcc&point=ffffff&area=true&hide_border=true" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=jeth-consultant&bg_color=0d1117&color=00ffff&line=00ffff&point=ffffff&area=true&hide_border=true" />
 
 ---
 
 ## 🌍 Beyond Code
 
-### 🧑‍💻 Tech Community & Events
-- 🚀 Actively attend **tech meetups, developer events & networking sessions**  
-- 🤝 Engage with engineers, founders & innovators  
-- 📚 Stay updated with industry trends & emerging technologies  
-
-### 🎯 Hobbies & Lifestyle
-
-| 💪 Fitness | 🥾 Adventure | 📚 Growth | 🎧 Lifestyle | 👑 Leadership |
-|-----------|------------|----------|-------------|--------------|
-| Gym & Strength Training | Hiking & Exploring Nature | Reading Books | Music & Focus Coding | Mentoring & Team Building |
+### 🤝 Tech Community
+- 🚀 Attend **tech events, meetups & hackathons**  
+- 🤝 Network with developers & founders  
+- 📚 Stay updated with emerging technologies  
 
 ---
 
-## 🤝 Let’s Connect
+### 🎯 Lifestyle & Hobbies
 
 <div align="center">
 
-<a href="mailto:jethrosumbeiywet@gmail.com">Email</a> • 
-<a href="https://www.linkedin.com/in/jethro-sumbeiywet-b13a97312/">LinkedIn</a> • 
-<a href="https://github.com/jeth-consultant">GitHub</a>
+| 💪 Fitness | 🥾 Hiking | 📚 Reading | 🎧 Music | 👑 Leadership |
+|-----------|----------|-----------|---------|--------------|
+| Gym & Discipline | Nature & Exploration | Continuous Learning | Focus & Creativity | Mentorship |
+
+</div>
+
+---
+
+## 🤝 Connect With Me
+
+<div align="center">
+
+<a href="mailto:jethrosumbeiywet@gmail.com">
+<img src="https://img.shields.io/badge/Email-0AFFEF?style=for-the-badge&logo=gmail&logoColor=black"/>
+</a>
+
+<a href="https://www.linkedin.com/in/jethro-sumbeiywet-b13a97312/">
+<img src="https://img.shields.io/badge/LinkedIn-0AFFEF?style=for-the-badge&logo=linkedin&logoColor=black"/>
+</a>
+
+<a href="https://github.com/jeth-consultant">
+<img src="https://img.shields.io/badge/GitHub-0AFFEF?style=for-the-badge&logo=github&logoColor=black"/>
+</a>
 
 </div>
 
@@ -182,9 +173,9 @@ Machine learning-based automation system
 ## 🎯 Current Focus
 
 - ☁️ Cloud-native systems (AWS & GCP)  
-- ⚙️ Kubernetes & DevOps automation  
-- 🧠 AI/ML solutions  
-- 🔐 Cybersecurity practices  
+- ⚙️ Kubernetes & DevOps pipelines  
+- 🧠 AI/ML applications  
+- 🔐 Cybersecurity best practices  
 - 📑 Technical proposals & tenders  
 
 ---
