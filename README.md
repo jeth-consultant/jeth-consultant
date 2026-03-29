@@ -139,23 +139,6 @@ Clear documentation, proactive communication, and asynchronous workflows — tim
 
 ---
 
-## 📈 GitHub Analytics
-
-<div align="center">
-<table>
-<tr>
-<td align="center">
-<h3>🏆 Top Languages</h3>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeth-consultant&layout=compact&theme=radical&langs_count=8&hide_border=true" alt="Top Languages" />
-</td>
-<td align="center">
-<h3>📊 GitHub Stats</h3>
-<img src="https://github-readme-stats.vercel.app/api?username=jeth-consultant&show_icons=true&count_private=true&hide=prs&theme=radical&include_all_commits=true&hide_border=true" alt="GitHub Stats" />
-</td>
-</tr>
-</table>
-</div>
-
 <div align="center">
 
 ### 🔥 Contribution Streak
