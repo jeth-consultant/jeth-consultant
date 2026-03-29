@@ -10,7 +10,7 @@
 # 🚀 Jethro Cheruiyot Sumbeiywet  
 ### *Engineering Scalable, Secure & Intelligent Systems*
 
-**`Full Stack Engineer` | `Cloud Architect` | `DevOps Engineer` | `AI/ML` | `Cybersecurity`**  
+**`Full Stack Engineer` | `Cloud Architect` | `DevOps Engineer` | `AI/ML Engineer` | `Cybersecurity`**  
 **`Technical Writer` | `Proposal Specialist` | `System Designer`**
 
 📍 Nairobi, Kenya 🇰🇪 — *Open to Remote & Global Opportunities*
@@ -27,101 +27,111 @@
 
 <img align="right" alt="coding" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
-I’m a **Full Stack Engineer** who builds **end-to-end solutions** — from UI to infrastructure.
+I’m a **Full Stack Engineer** passionate about building **scalable, secure, and impactful systems**.
 
-🔹 I specialize in:
-- Scalable web applications  
-- Cloud-native architectures  
-- DevOps automation & CI/CD  
-- AI/ML integrations  
-- Cybersecurity-first systems  
+I operate across the **entire software lifecycle** — from idea → architecture → development → deployment → scaling.
 
-🔹 Beyond coding:
-- 📝 Technical documentation  
-- 📑 Tender submissions & proposals  
-- 📦 Product catalogs  
-- 📊 Business-focused system design  
+### 🔹 Core Strengths
+- ⚙️ Full-stack development (Frontend + Backend)  
+- ☁️ Cloud-native architecture (AWS & GCP)  
+- 🔄 DevOps & CI/CD automation  
+- 🧠 AI/ML integration  
+- 🔐 Cybersecurity-first engineering  
+
+### 🔹 Beyond Engineering
+- 📝 Technical documentation & reports  
+- 📑 Tender submissions & technical proposals  
+- 📦 Product catalog development  
+- 🤝 Collaboration & leadership  
 
 ---
 
 ## ⚙️ Tech Stack
 
 ### 💻 Programming Languages
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=000)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=fff)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=fff)
-![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=fff)
-![PHP](https://img.shields.io/badge/-PHP-4F5B93?style=flat-square&logo=php&logoColor=fff)
-![C#](https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=csharp&logoColor=fff)
+JavaScript • TypeScript • Python • Java • PHP • C#
 
 ---
 
 ### 🎨 Frontend
-![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular&logoColor=fff)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=000)
-![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=fff)
-![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=fff)
-![Nuxt.js](https://img.shields.io/badge/-Nuxt.js-00DC82?style=flat-square&logo=nuxt.js&logoColor=fff)
-![Svelte](https://img.shields.io/badge/-Svelte-FF3E00?style=flat-square&logo=svelte&logoColor=fff)
-![Tailwind CSS](https://img.shields.io/badge/-TailwindCSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=fff)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=fff)
+Angular • React • Next.js • Vue • Nuxt • Svelte  
+Tailwind CSS • Bootstrap • Material UI  
 
 ---
 
 ### ⚙️ Backend
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=fff)
-![Express.js](https://img.shields.io/badge/-Express.js-000000?style=flat-square&logo=express&logoColor=fff)
-![NestJS](https://img.shields.io/badge/-NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=fff)
-![Laravel](https://img.shields.io/badge/-Laravel-F4534E?style=flat-square&logo=laravel&logoColor=fff)
-![Django](https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=django&logoColor=fff)
-![Flask](https://img.shields.io/badge/-Flask-000000?style=flat-square&logo=flask&logoColor=fff)
-![Spring Boot](https://img.shields.io/badge/-SpringBoot-6DB33F?style=flat-square&logo=springboot&logoColor=fff)
-![ASP.NET](https://img.shields.io/badge/-ASP.NET-512BD4?style=flat-square&logo=.net&logoColor=fff)
+Node.js • Express • NestJS • Laravel  
+Django • Flask • Spring Boot • ASP.NET  
 
 ---
 
 ### ☁️ Cloud, DevOps & Infrastructure
-![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=fff)
-![GCP](https://img.shields.io/badge/-GCP-4285F4?style=flat-square&logo=googlecloud&logoColor=fff)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=fff)
-![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=fff)
-![Jenkins](https://img.shields.io/badge/-Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=fff)
-![GitHub Actions](https://img.shields.io/badge/-GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=fff)
-![Nginx](https://img.shields.io/badge/-Nginx-009639?style=flat-square&logo=nginx&logoColor=fff)
+AWS • Google Cloud (GCP)  
+Docker • Kubernetes  
+Jenkins • GitHub Actions  
+Nginx  
 
 ---
 
 ### 🗄️ Databases, Caching & Data Systems
 
-#### 🧱 Relational Databases
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=fff)
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=fff)
-![SQL Server](https://img.shields.io/badge/-MSSQL-003B57?style=flat-square&logo=microsoftsqlserver&logoColor=fff)
+**🧱 Relational:**  
+PostgreSQL • MySQL • SQL Server • MariaDB • SQLite • Oracle  
 
-#### 🌐 NoSQL Databases
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=fff)
-![Cassandra](https://img.shields.io/badge/-Cassandra-1287B1?style=flat-square&logo=apachecassandra&logoColor=fff)
-![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=000)
+**🌐 NoSQL:**  
+MongoDB • Cassandra • Firebase • CouchDB • DynamoDB  
 
-#### ⚡ Caching & Performance
-![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=redis&logoColor=fff)
+**⚡ Caching:**  
+Redis • Memcached  
 
-#### 🔍 Search & Analytics
-![Elasticsearch](https://img.shields.io/badge/-Elasticsearch-005571?style=flat-square&logo=elasticsearch&logoColor=fff)
+**🔍 Search & Analytics:**  
+Elasticsearch • OpenSearch  
 
-#### ☁️ Backend-as-a-Service (BaaS)
-![Supabase](https://img.shields.io/badge/-Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=fff)
+**☁️ BaaS / Realtime:**  
+Supabase • Firebase  
 
 ---
 
 ### 🧠 AI/ML & Cybersecurity
 
 - Machine Learning integrations  
-- AI-powered systems  
+- AI-powered applications  
 - Secure authentication (JWT, OAuth)  
-- API security & best practices  
-- Data encryption & protection  
-- Vulnerability awareness  
+- API security & encryption  
+- Vulnerability mitigation  
+
+---
+
+## 🚀 Featured Projects
+
+### 🏛️ CitizenConnect360
+Full-stack civic engagement platform with AI integration  
+**Tech:** Angular • Node.js • MSSQL  
+
+📈 Improved reporting efficiency by **40%**
+
+---
+
+### ☁️ Cloud-Native System
+Microservices deployed using Kubernetes  
+**Tech:** AWS • GCP • Docker  
+
+📈 High scalability & performance optimization  
+
+---
+
+### ⚙️ DevOps Pipeline System
+CI/CD automation system  
+**Tech:** GitHub Actions • Docker  
+
+📈 Reduced deployment time by **60%**
+
+---
+
+### 🤖 AI Integration Project
+Machine learning-based automation system  
+
+📈 Reduced manual workload & improved accuracy  
 
 ---
 
@@ -136,9 +146,24 @@ I’m a **Full Stack Engineer** who builds **end-to-end solutions** — from UI 
 
 ---
 
-## 🔥 Contribution Graph
+## 🔥 Contribution Activity
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=jeth-consultant&bg_color=000000&color=ffffff&line=00ffcc&point=ffffff&area=true&hide_border=true" />
+
+---
+
+## 🌍 Beyond Code
+
+### 🧑‍💻 Tech Community & Events
+- 🚀 Actively attend **tech meetups, developer events & networking sessions**  
+- 🤝 Engage with engineers, founders & innovators  
+- 📚 Stay updated with industry trends & emerging technologies  
+
+### 🎯 Hobbies & Lifestyle
+
+| 💪 Fitness | 🥾 Adventure | 📚 Growth | 🎧 Lifestyle | 👑 Leadership |
+|-----------|------------|----------|-------------|--------------|
+| Gym & Strength Training | Hiking & Exploring Nature | Reading Books | Music & Focus Coding | Mentoring & Team Building |
 
 ---
 
@@ -146,17 +171,9 @@ I’m a **Full Stack Engineer** who builds **end-to-end solutions** — from UI 
 
 <div align="center">
 
-<a href="mailto:jethrosumbeiywet@gmail.com">
-<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://www.linkedin.com/in/jethro-sumbeiywet-b13a97312/">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="https://github.com/jeth-consultant">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
+<a href="mailto:jethrosumbeiywet@gmail.com">Email</a> • 
+<a href="https://www.linkedin.com/in/jethro-sumbeiywet-b13a97312/">LinkedIn</a> • 
+<a href="https://github.com/jeth-consultant">GitHub</a>
 
 </div>
 
@@ -165,15 +182,15 @@ I’m a **Full Stack Engineer** who builds **end-to-end solutions** — from UI 
 ## 🎯 Current Focus
 
 - ☁️ Cloud-native systems (AWS & GCP)  
-- ⚙️ DevOps automation & Kubernetes  
-- 🧠 AI/ML applications  
-- 🔐 Cybersecurity best practices  
-- 📑 Technical proposals & tender submissions  
+- ⚙️ Kubernetes & DevOps automation  
+- 🧠 AI/ML solutions  
+- 🔐 Cybersecurity practices  
+- 📑 Technical proposals & tenders  
 
 ---
 
 <div align="center">
 
-## 🚀 “Build. Scale. Secure. Repeat.”
+## 🚀 Build. Scale. Secure. Repeat.
 
 </div>
