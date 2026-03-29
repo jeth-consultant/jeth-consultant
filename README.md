@@ -1,50 +1,52 @@
 <div align="center">
 
-![Hello, I'm Jethro!](https://img.shields.io/badge/Hello,_I'm-Jethro-red?style=for-the-badge&logo=github&logoColor=white)
+<!-- Typing Animation -->
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=FF0000&center=true&vCenter=true&width=900&lines=Hi%2C+I'm+Jethro+Cheruiyot+Sumbeiywet;Full+Stack+Engineer+%7C+Cloud+Architect;DevOps+%7C+AI%2FML+%7C+Cybersecurity;I+Build+Scalable+%26+Secure+Systems" />
+
+<br><br>
+
+![Profile Views](https://komarev.com/ghpvc/?username=jeth-consultant&color=ff0000&style=for-the-badge)
 
 # 🚀 Jethro Cheruiyot Sumbeiywet  
-### *Building Scalable Systems. Securing Digital Futures. Driving Business Impact.*
+### *Engineering Scalable, Secure & Intelligent Systems*
 
-**`Full Stack Engineer` | `Cloud Architect` | `DevOps Engineer` | `AI/ML Engineer` | `Cybersecurity`**  
+**`Full Stack Engineer` | `Cloud Architect` | `DevOps Engineer` | `AI/ML` | `Cybersecurity`**  
 **`Technical Writer` | `Proposal Specialist` | `System Designer`**
 
-📍 **Nairobi (Embakasi), Kenya 🇰🇪** — *Open to Remote & Global Opportunities*
+📍 Nairobi, Kenya 🇰🇪 — *Open to Remote & Global Opportunities*
 
 ---
 
-> *"I don’t just build applications — I engineer scalable, secure, and revenue-driven systems."*
+> *"I don’t just write code — I architect systems that scale, secure, and drive real business value."*
 
 </div>
 
 ---
 
-## 💼 Professional Overview
+## 🧠 About Me
 
-I am a **Full Stack Engineer** with expertise across the **entire software development lifecycle** — from ideation to deployment and beyond.
+<img align="right" alt="coding" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
-I combine **engineering excellence**, **cloud architecture**, and **business strategy** to deliver solutions that are:
+I’m a **Full Stack Engineer** who builds **end-to-end solutions** — from UI to infrastructure.
 
-- ⚡ High-performance  
-- 🔐 Secure by design  
-- 📈 Scalable for growth  
-- 💡 Business-oriented  
+🔹 I specialize in:
+- Scalable web applications  
+- Cloud-native architectures  
+- DevOps automation & CI/CD  
+- AI/ML integrations  
+- Cybersecurity-first systems  
 
-Beyond development, I specialize in:
-
-- 📝 **Technical Documentation & Reports**
-- 📑 **Tender Submissions & Technical Proposals**
-- 📦 **Product Catalog Development**
-- 🧠 **AI/ML Integration**
-- 🛡️ **Cybersecurity Implementation**
+🔹 Beyond coding:
+- 📝 Technical documentation  
+- 📑 Tender submissions & proposals  
+- 📦 Product catalogs  
+- 📊 Business-focused system design  
 
 ---
 
-## ⚙️ Tech Stack & Capabilities
+## ⚙️ Tech Stack
 
 ### 💻 Programming Languages
-
-![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html5&logoColor=fff)
-![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css3&logoColor=fff)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=000)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=fff)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=fff)
@@ -54,8 +56,7 @@ Beyond development, I specialize in:
 
 ---
 
-### 🎨 Frontend — User Experience & Performance
-
+### 🎨 Frontend
 ![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular&logoColor=fff)
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=000)
 ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=fff)
@@ -64,12 +65,10 @@ Beyond development, I specialize in:
 ![Svelte](https://img.shields.io/badge/-Svelte-FF3E00?style=flat-square&logo=svelte&logoColor=fff)
 ![Tailwind CSS](https://img.shields.io/badge/-TailwindCSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=fff)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=fff)
-![Material UI](https://img.shields.io/badge/-Material_UI-007FFF?style=flat-square&logo=mui&logoColor=fff)
 
 ---
 
-### ⚙️ Backend — Scalable & Robust Systems
-
+### ⚙️ Backend
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=fff)
 ![Express.js](https://img.shields.io/badge/-Express.js-000000?style=flat-square&logo=express&logoColor=fff)
 ![NestJS](https://img.shields.io/badge/-NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=fff)
@@ -82,9 +81,8 @@ Beyond development, I specialize in:
 ---
 
 ### ☁️ Cloud, DevOps & Infrastructure
-
 ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=fff)
-![Google Cloud](https://img.shields.io/badge/-GCP-4285F4?style=flat-square&logo=googlecloud&logoColor=fff)
+![GCP](https://img.shields.io/badge/-GCP-4285F4?style=flat-square&logo=googlecloud&logoColor=fff)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=fff)
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=fff)
 ![Jenkins](https://img.shields.io/badge/-Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=fff)
@@ -93,56 +91,54 @@ Beyond development, I specialize in:
 
 ---
 
-### 🗄️ Databases
+### 🗄️ Databases, Caching & Data Systems
 
+#### 🧱 Relational Databases
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=fff)
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=fff)
 ![SQL Server](https://img.shields.io/badge/-MSSQL-003B57?style=flat-square&logo=microsoftsqlserver&logoColor=fff)
+
+#### 🌐 NoSQL Databases
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=fff)
+![Cassandra](https://img.shields.io/badge/-Cassandra-1287B1?style=flat-square&logo=apachecassandra&logoColor=fff)
+![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=000)
+
+#### ⚡ Caching & Performance
+![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=redis&logoColor=fff)
+
+#### 🔍 Search & Analytics
+![Elasticsearch](https://img.shields.io/badge/-Elasticsearch-005571?style=flat-square&logo=elasticsearch&logoColor=fff)
+
+#### ☁️ Backend-as-a-Service (BaaS)
+![Supabase](https://img.shields.io/badge/-Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=fff)
 
 ---
 
 ### 🧠 AI/ML & Cybersecurity
 
-- Machine Learning Model Integration  
-- AI-powered Applications  
-- API Security & Authentication  
-- Secure System Architecture  
-- Vulnerability Awareness & Mitigation  
-- Data Protection & Encryption Practices  
+- Machine Learning integrations  
+- AI-powered systems  
+- Secure authentication (JWT, OAuth)  
+- API security & best practices  
+- Data encryption & protection  
+- Vulnerability awareness  
 
 ---
 
-## 🌟 What Sets Me Apart
-
-### 🧠 Full Lifecycle Ownership
-From system design → development → deployment → monitoring.
-
-### ⚡ Speed + Quality
-Fast delivery without sacrificing scalability or maintainability.
-
-### 🔐 Security-First Engineering
-Every system is designed with **security at its core**.
-
-### 📊 Business-Focused Development
-I build solutions that **drive revenue, efficiency, and growth**.
-
-### 📝 Technical Communication
-- Technical documentation  
-- Tender submissions  
-- Proposal writing  
-- Product catalogs  
-
----
-
-## 📊 GitHub Insights
+## 📊 GitHub Stats
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=jeth-consultant&theme=radical&hide_border=true" />
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=jeth-consultant&bg_color=000000&color=ffffff&line=00ffcc&point=ffffff&area=true&hide_border=true" width="100%" />
+<img src="https://github-readme-stats.vercel.app/api?username=jeth-consultant&show_icons=true&theme=radical&hide_border=true" height="160"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=jeth-consultant&theme=radical&hide_border=true" height="160"/>
 
 </div>
+
+---
+
+## 🔥 Contribution Graph
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=jeth-consultant&bg_color=000000&color=ffffff&line=00ffcc&point=ffffff&area=true&hide_border=true" />
 
 ---
 
@@ -150,9 +146,17 @@ I build solutions that **drive revenue, efficiency, and growth**.
 
 <div align="center">
 
-[![Email](https://img.shields.io/badge/Email-jethrosumbeiywet@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jethrosumbeiywet@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Jethro_Sumbeiywet-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jethro-sumbeiywet-b13a97312/)
-[![GitHub](https://img.shields.io/badge/GitHub-jeth--consultant-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jeth-consultant)
+<a href="mailto:jethrosumbeiywet@gmail.com">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/jethro-sumbeiywet-b13a97312/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://github.com/jeth-consultant">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
 </div>
 
@@ -160,31 +164,16 @@ I build solutions that **drive revenue, efficiency, and growth**.
 
 ## 🎯 Current Focus
 
-- 🏗️ Architecting scalable backend systems  
-- ☁️ Building cloud-native applications (AWS & GCP)  
-- ⚙️ Implementing DevOps & CI/CD pipelines  
-- 🧠 Exploring AI/ML solutions  
-- 🔐 Advancing cybersecurity practices  
-- 📑 Writing high-quality technical proposals & tenders  
-
----
-
-## 🧠 Beyond Tech
-
-<div align="center">
-
-| 💪 Gym | 🥾 Hiking | 📚 Reading | 👑 Leadership |
-|------|---------|---------|-----------|
-| Discipline | Adventure | Knowledge | Impact |
-
-</div>
+- ☁️ Cloud-native systems (AWS & GCP)  
+- ⚙️ DevOps automation & Kubernetes  
+- 🧠 AI/ML applications  
+- 🔐 Cybersecurity best practices  
+- 📑 Technical proposals & tender submissions  
 
 ---
 
 <div align="center">
 
-## 🚀 Ready to Build Something Impactful?
-
-**Let’s collaborate. Let’s innovate. Let’s scale.**
+## 🚀 “Build. Scale. Secure. Repeat.”
 
 </div>
