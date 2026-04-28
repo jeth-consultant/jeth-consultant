@@ -1,6 +1,5 @@
 <div align="center">
 
-<!-- Smooth Typing Animation -->
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3500&pause=1200&color=0AFFEF&center=true&vCenter=true&width=850&lines=Hi%2C+I'm+Jethro+Cheruiyot+Sumbeiywet;Full+Stack+Engineer+%7C+Cloud+Architect;DevOps+%7C+AI%2FML+%7C+Cybersecurity;Building+Scalable+%26+Secure+Systems" />
 
 <br><br>
@@ -10,8 +9,7 @@
 # 🚀 Jethro Cheruiyot Sumbeiywet  
 ### *Building Scalable, Secure & Intelligent Systems*
 
-**`Full Stack Engineer` | `Cloud Architect` | `DevOps` | `AI/ML` | `Cybersecurity`**  
-**`Technical Writer` | `Proposal Specialist`**
+**`Full Stack Engineer` | `Cloud Architect` | `DevOps` | `AI/ML` | `Cybersecurity`**
 
 📍 Nairobi, Kenya 🇰🇪 — *Open to Global Opportunities*
 
@@ -32,7 +30,7 @@ I design and build **end-to-end systems** that are:
 - ☁️ Cloud-native  
 - 📈 Built for real business impact  
 
-I work across the **full lifecycle** — from idea → architecture → deployment → scaling.
+I work across the **full lifecycle** — from architecture → development → deployment → scaling.
 
 ---
 
@@ -126,27 +124,6 @@ Machine learning automation system
 ## 🔥 Activity Graph
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=jeth-consultant&bg_color=0d1117&color=00ffff&line=00ffff&point=ffffff&area=true&hide_border=true" />
-
----
-
-## 🌍 Beyond Code
-
-### 🤝 Tech Community
-- 🚀 Attend **tech events, meetups & hackathons**  
-- 🤝 Network with developers & founders  
-- 📚 Stay updated with emerging technologies  
-
----
-
-### 🎯 Lifestyle & Hobbies
-
-<div align="center">
-
-| 💪 Fitness | 🥾 Hiking | 📚 Reading | 🎧 Music | 👑 Leadership |
-|-----------|----------|-----------|---------|--------------|
-| Gym & Discipline | Nature & Exploration | Continuous Learning | Focus & Creativity | Mentorship |
-
-</div>
 
 ---
 
