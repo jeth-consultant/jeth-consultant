@@ -1,79 +1,115 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3500&pause=1200&color=0AFFEF&center=true&vCenter=true&width=800&lines=Hi%2C+I'm+Jethro+Cheruiyot+Sumbeiywet;Full+Stack+Developer;I+build+web+apps+and+systems+that+solve+real+problems" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3500&pause=1200&color=0AFFEF&center=true&vCenter=true&width=850&lines=Hi%2C+I'm+Jethro+Cheruiyot+Sumbeiywet;Full+Stack+Engineer+%7C+Cloud+Architect;DevOps+%7C+AI%2FML+%7C+Cybersecurity;Building+Scalable+%26+Secure+Systems" />
 
 <br><br>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=jeth-consultant&color=0affef&style=for-the-badge)
 
-# Jethro Cheruiyot Sumbeiywet  
-### Full Stack Developer
+# 🚀 Jethro Cheruiyot Sumbeiywet  
+### *Building Scalable, Secure & Intelligent Systems*
 
-📍 Nairobi, Kenya — Open to opportunities
+**`Full Stack Engineer` | `Cloud Architect` | `DevOps` | `AI/ML` | `Cybersecurity`**
+
+📍 Nairobi, Kenya 🇰🇪 — *Open to Global Opportunities*
+
+---
 
 </div>
 
 ---
 
-## About Me
+## 🧠 About Me
 
-<img align="right" alt="coding" width="260" src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif">
+<img align="right" alt="coding" width="280" src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif">
 
-I'm a software developer who enjoys building practical systems that people can actually use.
+I design and build **end-to-end systems** that are:
 
-I work across both frontend and backend, and I’m especially interested in how applications move from development to production — deployment, performance, and reliability.
+- ⚡ High-performance  
+- 🔐 Secure by design  
+- ☁️ Cloud-native  
+- 📈 Built for real business impact  
 
-Most of what I build focuses on:
-- Clean and functional user interfaces  
-- Reliable backend APIs  
-- Systems that are easy to maintain and scale  
-
----
-
-## Tech Stack
-
-### Frontend
-Angular, React, Next.js, Tailwind, Bootstrap
-
-### Backend
-Node.js, Express, .NET, Flask
-
-### DevOps & Cloud
-Docker, GitHub Actions, basic AWS & GCP
-
-### Databases
-SQL Server, MySQL, MongoDB, Firebase
+I work across the **full lifecycle** — from architecture → development → deployment → scaling.
 
 ---
 
-## Projects
+## ⚙️ Tech Stack
 
-### CitizenConnect360  
-A platform designed to improve communication between citizens and government services.  
-
-- Built with Angular and Node.js  
-- Uses SQL Server for data management  
-- Focused on making reporting and feedback easier to manage  
+### 🎨 Frontend
+<p>
+<img src="https://skillicons.dev/icons?i=angular,react,nextjs,vue,nuxtjs,svelte,tailwind,bootstrap" />
+</p>
 
 ---
 
-### Cloud-Based System  
-Worked on a microservices-based setup using Docker.
-
-- Broke down services for easier scaling  
-- Focused on deployment and service communication  
-
----
-
-### DevOps Pipelines  
-Set up CI/CD workflows using GitHub Actions.
-
-- Automated build and deployment processes  
-- Reduced manual deployment effort  
+### ⚙️ Backend
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,laravel,django,flask,spring,dotnet" />
+</p>
 
 ---
 
-## GitHub Stats
+### ☁️ Cloud & DevOps
+<p>
+<img src="https://skillicons.dev/icons?i=aws,gcp,docker,kubernetes,jenkins,githubactions,nginx" />
+</p>
+
+---
+
+### 🗄️ Databases & Data Systems
+<p>
+<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis,firebase,supabase" />
+</p>
+
+**Also experienced with:**  
+Cassandra • DynamoDB • MariaDB • SQLite • Oracle • Elasticsearch • Memcached
+
+---
+
+### 🧠 AI/ML & Cybersecurity
+
+- 🤖 AI-powered applications & automation  
+- 🔐 Secure authentication (JWT, OAuth)  
+- 🛡️ API security & encryption  
+- 📊 Data-driven system design  
+
+---
+
+## 🚀 Featured Projects
+
+### 🏛️ CitizenConnect360  
+Civic-tech platform connecting citizens & government  
+**Stack:** Angular • Node.js • MSSQL  
+
+📈 Improved reporting efficiency by **40%**
+
+---
+
+### ☁️ Cloud-Native System  
+Microservices architecture with Kubernetes  
+**Stack:** AWS • GCP • Docker  
+
+📈 Scalable & cost-efficient infrastructure  
+
+---
+
+### ⚙️ DevOps Automation  
+CI/CD pipelines for faster deployment  
+**Stack:** GitHub Actions • Docker  
+
+📈 Reduced deployment time by **60%**
+
+---
+
+### 🤖 AI Integration  
+Machine learning automation system  
+
+📈 Reduced manual workload & improved accuracy  
+
+---
+
+## 📊 GitHub Insights
 
 <div align="center">
 
@@ -85,20 +121,46 @@ Set up CI/CD workflows using GitHub Actions.
 
 ---
 
-## Connect
+## 🔥 Activity Graph
 
-- Email: jethrosumbeiywet@gmail.com  
-- LinkedIn: https://www.linkedin.com/in/jethro-sumbeiywet-b13a97312/  
-- GitHub: https://github.com/jeth-consultant  
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=jeth-consultant&bg_color=0d1117&color=00ffff&line=00ffff&point=ffffff&area=true&hide_border=true" />
 
 ---
 
-## Current Focus
+## 🤝 Connect With Me
 
-- Improving my cloud and deployment skills  
-- Learning more about system design  
-- Building more real-world projects  
+<div align="center">
+
+<a href="mailto:jethrosumbeiywet@gmail.com">
+<img src="https://img.shields.io/badge/Email-0AFFEF?style=for-the-badge&logo=gmail&logoColor=black"/>
+</a>
+
+<a href="https://www.linkedin.com/in/jethro-sumbeiywet-b13a97312/">
+<img src="https://img.shields.io/badge/LinkedIn-0AFFEF?style=for-the-badge&logo=linkedin&logoColor=black"/>
+</a>
+
+<a href="https://github.com/jeth-consultant">
+<img src="https://img.shields.io/badge/GitHub-0AFFEF?style=for-the-badge&logo=github&logoColor=black"/>
+</a>
+
+</div>
 
 ---
 
-Build things that work. Then improve them.
+## 🎯 Current Focus
+
+- ☁️ Cloud-native systems (AWS & GCP)  
+- ⚙️ Kubernetes & DevOps pipelines  
+- 🧠 AI/ML applications  
+- 🔐 Cybersecurity best practices  
+- 📑 Technical proposals & tenders  
+
+---
+
+<div align="center">
+
+## 🚀 Build. Scale. Secure. Repeat.
+
+</div>
+
+i dont want someone thinking that it was ai powered
