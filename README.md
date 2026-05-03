@@ -162,5 +162,3 @@ Machine learning automation system
 ## 🚀 Build. Scale. Secure. Repeat.
 
 </div>
-
-i dont want someone thinking that it was ai powered
