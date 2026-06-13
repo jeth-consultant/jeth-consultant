@@ -1,20 +1,17 @@
 <div align="center">
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3500&pause=1200&color=0AFFEF&center=true&vCenter=true&width=850&lines=Hi%2C+I'm+Jethro+Cheruiyot+Sumbeiywet;Full+Stack+Engineer+%7C+Cloud+Architect;DevOps+%7C+AI%2FML+%7C+Cybersecurity;Building+Scalable+%26+Secure+Systems" />
-
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3500&pause=1200&color=0AFFEF&center=true&vCenter=true&width=850&lines=Hi%2C+I'm+Jethro+Cheruiyot+Sumbeiywet;Software+Developer;Building+Clean%2C+Scalable+%26+Reliable+Software" />
 <br><br>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=jeth-consultant&color=0affef&style=for-the-badge)
 
-# 🚀 Jethro Cheruiyot Sumbeiywet  
-### *Building Scalable, Secure & Intelligent Systems*
+# 🧑‍💻 Jethro Cheruiyot Sumbeiywet
+### *Writing code that solves real problems*
 
-**`Full Stack Engineer` | `Cloud Architect` | `DevOps` | `AI/ML` | `Cybersecurity`**
+**`Software Developer` | `Full Stack` | `API Design` | `Clean Code Advocate`**
 
 📍 Nairobi, Kenya 🇰🇪 — *Open to Global Opportunities*
 
 ---
-
 </div>
 
 ---
@@ -23,14 +20,14 @@
 
 <img align="right" alt="coding" width="280" src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif">
 
-I design and build **end-to-end systems** that are:
+I'm a software developer who loves turning ideas into working, maintainable software. I care about:
 
-- ⚡ High-performance  
-- 🔐 Secure by design  
-- ☁️ Cloud-native  
-- 📈 Built for real business impact  
+- 🧹 Writing clean, readable code
+- 🏗️ Designing solid architecture from the ground up
+- 🔄 Building features that users actually enjoy
+- 🐛 Squashing bugs before they squash you
 
-I work across the **full lifecycle** — from architecture → development → deployment → scaling.
+I'm comfortable across the full stack — from a pixel-perfect UI to a well-designed REST API to a database schema that won't haunt you at 2am.
 
 ---
 
@@ -50,73 +47,66 @@ I work across the **full lifecycle** — from architecture → development → d
 
 ---
 
-### ☁️ Cloud & DevOps
-<p>
-<img src="https://skillicons.dev/icons?i=aws,gcp,docker,kubernetes,jenkins,githubactions,nginx" />
-</p>
-
----
-
-### 🗄️ Databases & Data Systems
+### 🗄️ Databases
 <p>
 <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis,firebase,supabase" />
 </p>
 
-**Also experienced with:**  
-Cassandra • DynamoDB • MariaDB • SQLite • Oracle • Elasticsearch • Memcached
+Also experienced with: Cassandra • DynamoDB • MariaDB • SQLite • Elasticsearch
 
 ---
 
-### 🧠 AI/ML & Cybersecurity
+### 🛠️ Tools & Workflow
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,docker,linux,postman" />
+</p>
 
-- 🤖 AI-powered applications & automation  
-- 🔐 Secure authentication (JWT, OAuth)  
-- 🛡️ API security & encryption  
-- 📊 Data-driven system design  
+- ✅ Version control with Git
+- 🧪 Unit & integration testing
+- 📝 API design & documentation
+- 🔁 Code review & collaborative development
 
 ---
 
 ## 🚀 Featured Projects
 
-### 🏛️ CitizenConnect360  
-Civic-tech platform connecting citizens & government  
+### 🏛️ CitizenConnect360
+Civic-tech platform connecting citizens & government services
+
 **Stack:** Angular • Node.js • MSSQL  
-
-📈 Improved reporting efficiency by **40%**
-
----
-
-### ☁️ Cloud-Native System  
-Microservices architecture with Kubernetes  
-**Stack:** AWS • GCP • Docker  
-
-📈 Scalable & cost-efficient infrastructure  
+📈 Improved service reporting efficiency by **40%**
 
 ---
 
-### ⚙️ DevOps Automation  
-CI/CD pipelines for faster deployment  
-**Stack:** GitHub Actions • Docker  
+### 📦 E-Commerce Platform
+Full-stack online store with real-time inventory and payment integration
 
-📈 Reduced deployment time by **60%**
+**Stack:** React • Node.js • PostgreSQL  
+📈 Streamlined checkout flow, reducing drop-off by **25%**
 
 ---
 
-### 🤖 AI Integration  
-Machine learning automation system  
+### 🔗 REST API Boilerplate
+Production-ready API starter with auth, validation & error handling baked in
 
-📈 Reduced manual workload & improved accuracy  
+**Stack:** Node.js • Express • JWT  
+📈 Reused across 5+ projects to cut setup time significantly
+
+---
+
+### 🤖 AI-Powered App
+Integrated machine learning into a web application for smart automation
+
+**Stack:** Python • Flask • React  
+📈 Reduced manual workload and improved accuracy for end users
 
 ---
 
 ## 📊 GitHub Insights
 
 <div align="center">
-
 <img src="https://github-readme-stats.vercel.app/api?username=jeth-consultant&show_icons=true&theme=tokyonight&hide_border=true" height="160"/>
-
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=jeth-consultant&theme=tokyonight&hide_border=true" height="160"/>
-
 </div>
 
 ---
@@ -130,35 +120,30 @@ Machine learning automation system
 ## 🤝 Connect With Me
 
 <div align="center">
-
 <a href="mailto:jethrosumbeiywet@gmail.com">
 <img src="https://img.shields.io/badge/Email-0AFFEF?style=for-the-badge&logo=gmail&logoColor=black"/>
 </a>
-
 <a href="https://www.linkedin.com/in/jethro-sumbeiywet-b13a97312/">
 <img src="https://img.shields.io/badge/LinkedIn-0AFFEF?style=for-the-badge&logo=linkedin&logoColor=black"/>
 </a>
-
 <a href="https://github.com/jeth-consultant">
 <img src="https://img.shields.io/badge/GitHub-0AFFEF?style=for-the-badge&logo=github&logoColor=black"/>
 </a>
-
 </div>
 
 ---
 
-## 🎯 Current Focus
+## 🎯 Currently Working On
 
-- ☁️ Cloud-native systems (AWS & GCP)  
-- ⚙️ Kubernetes & DevOps pipelines  
-- 🧠 AI/ML applications  
-- 🔐 Cybersecurity best practices  
-- 📑 Technical proposals & tenders  
+- 🧱 Building full-stack applications with React & Node.js
+- 🔌 Designing clean, well-documented APIs
+- 🧪 Improving my testing practices (TDD when the coffee kicks in)
+- 📚 Deepening my knowledge of software architecture patterns
 
 ---
 
 <div align="center">
 
-## 🚀 Build. Scale. Secure. Repeat.
+## 💻 Code. Ship. Iterate. Repeat.
 
 </div>
